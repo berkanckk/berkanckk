@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHQRzj6uIBMpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729571075015?e=1744848000&v=beta&t=NAZ8WufIkOmlLNIzJcArCoUM8V_eF0WIUpToE5eWzoM" alt="MasterHead" width="100%"/>
-</p>
+
 
 
 
