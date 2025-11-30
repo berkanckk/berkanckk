@@ -2,9 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQHQRzj6uIBMpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729571075015?e=1744848000&v=beta&t=NAZ8WufIkOmlLNIzJcArCoUM8V_eF0WIUpToE5eWzoM" alt="MasterHead" width="100%"/>
 </p>
 
-<h1 align="center" style="color:#000000; font-size: 40px; font-weight: bold;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+,+I'm+Berkan+%C3%87elik!;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor"/>
-</h1>
+
 
 
 
